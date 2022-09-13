@@ -1,4 +1,8 @@
-### Hi there 👋
+### :dizzy: Welcome :dizzy:
+
+My name is Alfred, I study web development at [**YRGO**](https://www.yrgo.se/utbildningar/webbutvecklare/ "YRGO") :+1: :seedling: 
+
+
 
 <!--
 **alun0511/alun0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

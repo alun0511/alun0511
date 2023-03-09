@@ -3,12 +3,12 @@
 ## Hello There! ##
 #### My name is **Alfred**, I study web development at [**YRGO**](https://www.yrgo.se/utbildningar/webbutvecklare/ "YRGO") :+1: :seedling: ####
 
-**LinkedIn**: www.linkedin.com/in/alfred-unenge-990b63256
+[**LinkedIn**:](www.linkedin.com/in/alfred-unenge-990b63256)
 
 Links to some of the student projects: 
 
-- **Useless web** - javascript: https://useless-sound.netlify.app/
+- [**Useless web**](https://useless-sound.netlify.app/) - javascript
 
-- **Waterworks** - react and charts.js: https://thomasdanielsson.coffee/
+- [**Waterworks**](https://thomasdanielsson.coffee/)- react and charts.js
 
-- **Naturally** - in collaboration with students of digital design. HTML and JS : https://naturallyfive.netlify.app/
+- [**Naturally**](https://naturallyfive.netlify.app/) - HTML and JS. In collaboration with students of digital design. 

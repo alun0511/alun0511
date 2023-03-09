@@ -9,6 +9,6 @@ Links to some of the student projects:
 
 - [**Useless web**](https://useless-sound.netlify.app/) - javascript
 
-- [**Waterworks**](https://thomasdanielsson.coffee/)- react and charts.js
+- [**Waterworks**](https://thomasdanielsson.coffee/) - react and charts.js
 
 - [**Naturally**](https://naturallyfive.netlify.app/) - HTML and JS. In collaboration with students of digital design. 

@@ -3,7 +3,7 @@
 ## Hello There!  :wave: ## 
 #### My name is **Alfred**, I study web development at :seedling: [**YRGO**](https://www.yrgo.se/utbildningar/webbutvecklare/ "YRGO") :seedling: ####
 
-[**LinkedIn**](linkedin.com/in/alfred-unenge-990b63256) :+1:
+<a href="https://www.linkedin.com/in/alfred-unenge-990b63256/" target="_blank">**Linkedin** :+1:</a>
 
 Links to some of the student projects: 
 

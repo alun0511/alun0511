@@ -7,8 +7,12 @@
 
 Links to some of the student projects: 
 
-- [**Useless web**](https://useless-sound.netlify.app/) - javascript
+- [**TypeScript**](https://the-quote-machine.netlify.app/) - React with TypeScript, Tanstack Query, Styled Components and Framer Motion
 
-- [**Waterworks**](https://thomasdanielsson.coffee/) - react and charts.js
+- [**Useless web**](https://useless-sound.netlify.app/) - JavaScript
 
-- [**Naturally**](https://naturallyfive.netlify.app/) - HTML and JS. In collaboration with students of digital design. 
+- [**Waterworks**](https://waterworks-nine.vercel.app/) - React and chart.js
+
+- [**Naturally**](https://naturallyfive.netlify.app/) - In collaboration with students of digital design. 
+
+Please see pinned repositories below for som insight in these projects. 

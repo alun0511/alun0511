@@ -1,7 +1,7 @@
 ![Hello there](https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47q5co9c4o2xj65zykueoxvtcy86qq7e1gykh4wgnu&rid=giphy.gif&ct=g)
 
 ## Hello There!  :wave: ## 
-#### My name is **Alfred**, I study web development at :seedling: [**YRGO**](https://www.yrgo.se/utbildningar/webbutvecklare/ "YRGO") :seedling: ####
+#### :seedling: My name is **Alfred**, I'm a webdeveloper looking for new interesting projects :seedling: ####
 
 <a href="https://www.linkedin.com/in/alfred-unenge-990b63256/" target="_blank">**Linkedin** :+1:</a>
 

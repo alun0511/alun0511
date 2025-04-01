@@ -1,7 +1,6 @@
-# alun # 
-## Web developer looking for projects and collaborations :seedling: ##
-
-### Work in progress ###
+<h2 align=center>Alfred</h2>
+<h4 align=center>Web developer looking for projects and collaborations </h4>
+<h4>Work in progress</h4>
 
 [**Portfolio Template**](https://github.com/alun0511/portfolio-template) - Next.JS, TypeScript and GraphQL codegen, DatoCMS, CSS-modules
 

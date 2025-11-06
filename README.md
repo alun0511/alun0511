@@ -9,5 +9,3 @@
 [**Waterworks**](https://waterworks-nine.vercel.app/) - React and chart.js
 
 [**TypeScript**](https://the-quote-machine.netlify.app/) - React with TypeScript, Tanstack Query, Styled Components and Framer Motion
-
-[**Useless web**](https://useless-sound.netlify.app/) - JavaScript

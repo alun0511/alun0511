@@ -1,5 +1,5 @@
-<h2 align=center>Alfred</h2>
-<h4 align=center>Web developer looking for projects and collaborations </h4>
+<h2 align=center>Hello!</h2>
+<h4 align=center>My name is Alfred. I'm a web developer open for new projects and collaborations </h4>
 <h4>Work in progress</h4>
 
 [**Portfolio Template**](https://github.com/alun0511/portfolio-template) - Next.JS, TypeScript and GraphQL codegen, DatoCMS, CSS-modules
